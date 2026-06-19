@@ -139,15 +139,6 @@
           <b>Modern E-commerce Portal.</b> Full-featured dessert showcase integrating Firebase for scalable authentication and database routing. Styled elegantly with Material UI, React 19, and scalable Framer animatics.
         </p>
       </td>
-      <td width="50%" align="center" valign="top" style="background-color: #FFFFFF; border-radius: 16px; padding: 20px; box-shadow: 0 10px 25px rgba(14, 165, 233, 0.1); border: 1px solid #E2E8F0;">
-        <a href="https://github.com/C-2631/Text-to-Voice" style="text-decoration: none;">
-          <h2 style="color: #1E293B; margin-bottom: 15px;"><b>🎙️ Text-to-Voice API Engine</b></h2>
-        </a>
-        <img src="https://images.unsplash.com/photo-1589254066007-898d52d910d3?q=80&w=260&auto=format&fit=crop" width="100%" style="border-radius: 8px; border: 2px solid #0EA5E9; box-shadow: 0 4px 12px rgba(14,165,233,0.15);" alt="Audio Graph Placeholder" />
-        <p align="justify" style="font-size: 14px; color: #334155; font-weight: 500; margin-top: 15px; line-height: 1.6;">
-          <b>Interactive Speech Synthesizer.</b> Seamless text-to-speech implementation utilizing native JavaScript Web Speech APIs. Provides real-time voice switching parameters and elegant CSS flexbox gradient architecture.
-        </p>
-      </td>
     </tr>
   </table>
 </div>
