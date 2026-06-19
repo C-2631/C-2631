@@ -1,251 +1,419 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--        CHIRAG CHAUHAN  ·  AI/ML & FULLSTACK DEVELOPER        -->
+<!--      CHIRAG CHAUHAN  ·  AI/ML & FULL-STACK WEB DEVELOPER       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c3ce9,100:06b6d4&height=220&section=header&text=Chirag%20Chauhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20Engineer%20%20%7C%20%20Fullstack%20Python%20Developer&descSize=17&descAlignY=54&descColor=d1d5db" width="100%" alt="Header" />
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+RAG+Systems+%26+LLM+Integrations;FastAPI+%2B+React+%2B+Three.js+Developer;Exploring+Federated+Deep+Reinforcement+Learning" alt="Typing SVG" />
-</a>
-<br/>
-<!-- Profile Counters -->
-<img src="https://komarev.com/ghpvc/?username=C-2631&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/C-2631?label=Followers&style=for-the-badge&color=06b6d4&labelColor=0d1117" alt="Followers" />
+  <h1>👋 Hi, I'm Chirag Chauhan (C-2631)</h1>
+  <p><strong>AI/ML Engineer | Full-Stack Developer | 3D Web Enthusiast</strong></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=AI%2FML+Engineer+%26+Researcher;Full-Stack+Web+Developer;Three.js+%26+3D+Graphics+Creator;Python+%26+JavaScript+Programmer" alt="Typing SVG" />
+  <p align="center">
+    <a href="mailto:cjc200426@gmail.com">
+      <img src="https://img.shields.io/badge/Email-cjc200426%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white&color=8B5CF6" alt="Email Badge" />
+    </a>
+    <a href="https://github.com/C-2631">
+      <img src="https://img.shields.io/badge/GitHub-C--2631-black?style=flat-square&logo=github&logoColor=white&color=0D1117" alt="GitHub Badge" />
+    </a>
+  </p>
 </div>
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="370" alt="coding animation" />
-## 👋 &nbsp;About Me
-Hi, I'm **Chirag Chauhan** — an AI/ML Engineer and Fullstack Python Developer.
-I build intelligent web applications that combine **Large Language Models**, **RAG pipelines**, and modern frontends. My work spans from training deep reinforcement learning models to building production-ready chatbots with document processing.
-- 🔭 &nbsp;Currently building an **Enterprise RAG Chatbot** with FastAPI + ChromaDB
-- 🧪 &nbsp;Researching **Federated Deep Reinforcement Learning** for spectrum sensing in cognitive IoT networks
-- 🧠 &nbsp;Working with **Google Gemini 1.5**, **LangChain**, and **Vector Embeddings**
-- 💻 &nbsp;Building frontends with **React.js**, **Three.js**, and **Tailwind CSS**
-- ⚡ &nbsp;Experienced in **async backends** with FastAPI, SSE streaming, and WebSockets
-- 📄 &nbsp;Automating document processing with **PyPDF** and **python-docx**
-- 🎓 &nbsp;On GitHub since **August 2023** — **19 public repositories** and growing
-<br clear="both"/>
 ---
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TECH STACK                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 🛠️ &nbsp;Tech Stack
-<table align="center">
-<tr>
-<td align="center" width="50%">
-### 🧠 &nbsp;AI & Machine Learning
-<br/>
-<img src="https://img.shields.io/badge/Google_Gemini_1.5-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/RAG_Systems-10B981?style=for-the-badge&logo=bookstack&logoColor=white" alt="RAG" />
-<img src="https://img.shields.io/badge/ChromaDB-00E5FF?style=for-the-badge&logo=databricks&logoColor=black" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/Vector_Embeddings-FF6B6B?style=for-the-badge&logo=opensearch&logoColor=white" alt="Embeddings" />
-<img src="https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP" />
-</td>
-<td align="center" width="50%">
-### 💻 &nbsp;Languages
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-### ⚙️ &nbsp;Backend & Databases
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F27?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-<img src="https://img.shields.io/badge/Uvicorn-4B0082?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Uvicorn" />
-<img src="https://img.shields.io/badge/SSE_Streaming-FF9800?style=for-the-badge&logo=lightning&logoColor=white" alt="SSE" />
-<img src="https://img.shields.io/badge/Async%2FAwait-06B6D4?style=for-the-badge&logo=python&logoColor=white" alt="Async" />
-</td>
-<td align="center" width="50%">
-### 🎨 &nbsp;Frontend & Tools
-<br/>
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</td>
-</tr>
-</table>
----
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 🔥 &nbsp;Featured Projects
+<br>
+### 📖 About Me
+<!-- 👋 ABOUT ME SECTION -->
 <div align="center">
-<a href="https://github.com/C-2631/Enterprise-Rag-Chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=C-2631&repo=Enterprise-Rag-Chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="47%" alt="Enterprise RAG Chatbot" />
-</a>
-&nbsp;
-<a href="https://github.com/C-2631/F-DRL-for-Spectrum-sensing-in-cognitive-IOT-network">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=C-2631&repo=F-DRL-for-Spectrum-sensing-in-cognitive-IOT-network&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="47%" alt="Federated DRL" />
-</a>
-<br/><br/>
-<a href="https://github.com/C-2631/Feedback-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=C-2631&repo=Feedback-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="47%" alt="Feedback System" />
-</a>
-&nbsp;
-<a href="https://github.com/C-2631/Student-Dashboard-Analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=C-2631&repo=Student-Dashboard-Analytics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="47%" alt="Student Dashboard" />
-</a>
-<br/><br/>
-<a href="https://github.com/C-2631/Car-Wala">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=C-2631&repo=Car-Wala&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="47%" alt="Car Wala" />
-</a>
-&nbsp;
-<a href="https://github.com/C-2631/Nexus-Core_web_design">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=C-2631&repo=Nexus-Core_web_design&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="47%" alt="Nexus Core" />
-</a>
+  <h2>👋 About Me</h2>
+  <p style="font-size: 1.1em; line-height: 1.6; max-width: 800px;">
+    Hi, I'm <strong>Chirag Chauhan</strong> — an AI/ML Engineer and Fullstack Python Developer. I build intelligent web applications that combine <strong>Large Language Models</strong>, <strong>RAG pipelines</strong>, and modern frontends. My work spans from training deep reinforcement learning models to building production-ready chatbots with document processing.
+  </p>
 </div>
----
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   WHAT I WORK ON                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 🏗️ &nbsp;What I Work On
-<table>
-<tr>
-<td width="33%" valign="top">
-### 🤖 &nbsp;AI & LLM Systems
-- RAG chatbots with **document ingestion**
-- **Vector embeddings** & semantic search
-- LLM integration with **Gemini & LangChain**
-- Real-time **token streaming** via SSE
-</td>
-<td width="33%" valign="top">
-### ⚙️ &nbsp;Backend Engineering
-- **FastAPI** with async/await patterns
-- **SQLAlchemy ORM** data models
-- Document parsing (**PyPDF**, **python-docx**)
-- SSE & WebSocket connections
-</td>
-<td width="33%" valign="top">
-### 🌐 &nbsp;Frontend Development
-- **React.js** single-page applications
-- Interactive **Three.js** 3D graphics
-- Responsive layouts with **Tailwind CSS**
-- Modern tooling with **Vite** & **TypeScript**
-</td>
-</tr>
-</table>
+I am an **AI/ML Engineer and Full-Stack Developer** passionate about building intelligent systems and immersive, high-performance web experiences. My background ranges from **Distributed Federated Learning & Reinforcement Learning** in wireless IoT networks to **3D Web Graphics, Augmented Reality, and interactive SaaS platforms**.
+<br>
+- 🔭 **Specializations**: Deep Learning (PyTorch), Reinforcement Learning (DQN), 3D Web Graphics (Three.js/R3F), and Modern Full-Stack Development.
+- ⚡ **Philosophy**: I focus on writing clean, modular, and performant code—whether training neural network models on GPU clusters or crafting fluid 60-FPS frontend layouts.
+- 🌱 **Current Focus**: Scaling 3D real estate tours with AI design recommendations and optimizing spectrum sensing strategies on IoT devices.
 <div align="center">
-```
-                    ┌─────────────────────┐
-                    │   Document Upload    │
-                    │  (PDF, DOCX, TXT)    │
-                    └────────┬────────────┘
-                             │
-                             ▼
-                    ┌─────────────────────┐
-                    │  Chunking & Parsing  │
-                    │    (PyPDF, docx)     │
-                    └────────┬────────────┘
-                             │
-                             ▼
-                    ┌─────────────────────┐
-                    │  Vector Embeddings   │
-                    │    (Gemini API)      │
-                    └────────┬────────────┘
-                             │
-                             ▼
-                    ┌─────────────────────┐
-                    │   ChromaDB Storage   │
-                    └────────┬────────────┘
-                             │
-    ┌────────────┐           │
-    │ User Query ├───────────▼───────────┐
-    └────────────┘  Semantic Similarity  │
-                    │     Search         │
-                    └────────┬───────────┘
-                             │
-                             ▼
-                    ┌─────────────────────┐
-                    │  LLM Generation     │
-                    │  (Google Gemini)     │
-                    └────────┬────────────┘
-                             │
-                             ▼
-                    ┌─────────────────────┐
-                    │  Response + Sources  │
-                    └─────────────────────┘
-```
+  <table width="90%" border="0" cellspacing="0" cellpadding="8">
+    <tr>
+      <td align="left" style="line-height: 1.8; font-size: 1.05em;">
+        🔭 &nbsp; Currently building an <strong>Enterprise RAG Chatbot</strong> with FastAPI + ChromaDB <br>
+        🧪 &nbsp; Researching <strong>Federated Deep Reinforcement Learning</strong> for spectrum sensing in cognitive IoT networks <br>
+        🧠 &nbsp; Working with <strong>Google Gemini 1.5</strong>, <strong>LangChain</strong>, and <strong>Vector Embeddings</strong> <br>
+        💻 &nbsp; Building frontends with <strong>React.js</strong>, <strong>Three.js</strong>, and <strong>Tailwind CSS</strong> <br>
+        ⚡ &nbsp; Experienced in <strong>async backends</strong> with FastAPI, SSE streaming, and WebSockets <br>
+        📄 &nbsp; Automating document processing with <strong>PyPDF</strong> and <strong>python-docx</strong> <br>
+        🎓 &nbsp; On GitHub since <strong>August 2023</strong> — <strong>19 public repositories</strong> and growing
+      </td>
+    </tr>
+  </table>
 </div>
 ---
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 📊 &nbsp;GitHub Stats
+<br>
+<hr>
+<br>
+### 🛠️ Tech Stack & Skills
+<!-- 🛠️ TECH STACK SECTION -->
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=C-2631&theme=tokyonight&hide_border=true&background=0D1117&stroke=6c3ce9&ring=8b5cf6&fire=f59e0b&currStreakLabel=06b6d4&sideLabels=d1d5db&dates=9ca3af" width="49%" alt="Streak Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=C-2631&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db&count_private=true" width="49%" alt="GitHub Stats" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-2631&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=d1d5db&langs_count=8" width="32%" alt="Top Languages" />
-&nbsp;&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=C-2631&bg_color=0d1117&color=8b5cf6&line=06b6d4&point=f59e0b&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Activity" width="65%" alt="Activity Graph" />
-<br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=C-2631&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies" />
+  <h2>🛠️ Tech Stack</h2>
+  <br>
+  <table width="100%" border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <!-- Column 1: AI & Machine Learning -->
+      <td width="50%" valign="top" align="center">
+        <h3>🧠 AI & Machine Learning</h3>
+        <p style="line-height: 2.0;">
+          <img src="https://img.shields.io/badge/Gemini_1.5-8B5CF6?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
+          <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /> <br>
+          <img src="https://img.shields.io/badge/RAG_Pipelines-0052CC?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
+          <img src="https://img.shields.io/badge/ChromaDB-FFA000?style=for-the-badge&logo=database&logoColor=white" alt="ChromaDB" /> <br>
+          <img src="https://img.shields.io/badge/Vector_Embeddings-00C7B7?style=for-the-badge&logo=vector&logoColor=white" alt="Embeddings" />
+          <img src="https://img.shields.io/badge/NLP-FF5722?style=for-the-badge&logo=google-cloud&logoColor=white" alt="NLP" />
+        </p>
+      </td>
+      <!-- Column 2: Languages -->
+      <td width="50%" valign="top" align="center">
+        <h3>💻 Languages</h3>
+        <p style="line-height: 2.0;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <br>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <br>
+          <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <!-- Column 3: Backend & Databases -->
+      <td width="50%" valign="top" align="center">
+        <h3>⚙️ Backend & Databases</h3>
+        <p style="line-height: 2.0;">
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+          <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> <br>
+          <img src="https://img.shields.io/badge/SQLAlchemy-D71149?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+          <img src="https://img.shields.io/badge/Uvicorn-2C3E50?style=for-the-badge&logo=uvicorn&logoColor=white" alt="Uvicorn" /> <br>
+          <img src="https://img.shields.io/badge/SSE_Streaming-4CAF50?style=for-the-badge&logo=server&logoColor=white" alt="SSE" />
+          <img src="https://img.shields.io/badge/Async/Await-005C8A?style=for-the-badge&logo=async&logoColor=white" alt="Async" />
+        </p>
+      </td>
+      <!-- Column 4: Frontend & Tools -->
+      <td width="50%" valign="top" align="center">
+        <h3>🎨 Frontend & Tools</h3>
+        <p style="line-height: 2.0;">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> <br>
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+          <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" /> <br>
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
----
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SKILL BARS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 🧩 &nbsp;Skill Overview
-```text
-Python               █████████████████████████░   96 %
-FastAPI              ████████████████████████░░   92 %
-LLMs & Gemini API    ███████████████████████░░░   88 %
-RAG & Vector Search  ███████████████████████░░░   88 %
-LangChain            ██████████████████████░░░░   85 %
-JavaScript           █████████████████████░░░░░   82 %
-React.js             ████████████████████░░░░░░   78 %
-TypeScript           ███████████████████░░░░░░░   75 %
-Tailwind CSS         █████████████████████░░░░░   82 %
-Three.js             █████████████████░░░░░░░░░   68 %
-Document Processing  ███████████████████████░░░   88 %
-SQLite / SQLAlchemy  ██████████████████████░░░░   85 %
-HTML & CSS           █████████████████████████░   96 %
-Git & GitHub         █████████████████████░░░░░   82 %
-```
----
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SNAKE ANIMATION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+|
+ Category 
+|
+ Tech Stack & Badges 
+|
+|
+:---
+|
+:---
+|
+|
+**
+Languages
+**
+|
+!
+[
+Python
+](
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+)
+!
+[
+JavaScript
+](
+https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+)
+!
+[
+TypeScript
+](
+https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
+)
+!
+[
+HTML5
+](
+https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white
+)
+!
+[
+CSS3
+](
+https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
+)
+|
+|
+**
+AI / Machine Learning
+**
+|
+!
+[
+PyTorch
+](
+https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
+)
+`Deep Q-Networks (DQN)`
+`LSTM`
+`Federated Learning (FedAvg)`
+`Dirichlet Non-IID`
+|
+|
+**
+3D & Interactive Web
+**
+|
+!
+[
+Three.js
+](
+https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white
+)
+`React Three Fiber (R3F)`
+`Drei`
+`GSAP Animations`
+`ScrollTrigger`
+`Lenis Smooth Scroll`
+|
+|
+**
+Frontend Frameworks
+**
+|
+!
+[
+React
+](
+https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black
+)
+!
+[
+Tailwind CSS
+](
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white
+)
+!
+[
+Material-UI
+](
+https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white
+)
+`shadcn/ui`
+`Radix UI`
+|
+|
+**
+Backend & Databases
+**
+|
+!
+[
+Firebase
+](
+https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black
+)
+!
+[
+Supabase
+](
+https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white
+)
+`FastAPI`
+`PostgreSQL`
+`REST APIs`
+|
+|
+**
+Tools & Platforms
+**
+|
+!
+[
+Git
+](
+https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
+)
+!
+[
+GitHub
+](
+https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white
+)
+!
+[
+VS Code
+](
+https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white
+)
+!
+[
+Jupyter
+](
+https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white
+)
+|
+<br>
+<hr>
+<br>
+<!-- 🚀 FEATURED PROJECTS SECTION -->
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</picture>
+  <h2>🚀 Featured Projects</h2>
+  <br>
+  <table width="100%" border="0" cellspacing="0" cellpadding="12">
+    <tr>
+      <!-- Project 1 -->
+      <td width="50%" valign="top" align="left" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+        <h3>🏠 <a href="https://github.com/C-2631/dream-weaver-home">Dream Weaver Home</a></h3>
+        <p style="font-size: 0.95em; color: #8b949e; min-height: 60px;">
+          Next-gen 3D Real Estate platform. Explore properties in 3D walkthroughs, customize layouts, design rooms with AI, and place objects in AR.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+          <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" alt="Three.js" />
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        </p>
+      </td>
+      <!-- Project 2 -->
+      <td width="50%" valign="top" align="left" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+        <h3>📡 <a href="https://github.com/C-2631/F-DRL-for-Spectrum-sensing-in-cognitive-IOT-network">Federated DRL Sensing</a></h3>
+        <p style="font-size: 0.95em; color: #8b949e; min-height: 60px;">
+          Distributed spectrum sensing system for Cognitive IoT using BiLSTM modulation classifiers and Dueling DQN agents.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <!-- Project 3 -->
+      <td width="50%" valign="top" align="left" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+        <h3>🌸 <a href="https://github.com/C-2631/Feedback-System">Kawaii Feedback System</a></h3>
+        <p style="font-size: 0.95em; color: #8b949e; min-height: 60px;">
+          Cute pastel feedback system with 8 custom form types, Supabase authentication, and comprehensive analytics.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TS" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+        </p>
+      </td>
+      <!-- Project 4 -->
+      <td width="50%" valign="top" align="left" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+        <h3>🎬 <a href="https://github.com/C-2631/Nexus-Core_web_design">Nexus-Core Web Design</a></h3>
+        <p style="font-size: 0.95em; color: #8b949e; min-height: 60px;">
+          Immersive, cyberpunk system interface with rotating 3D particles, custom cursor overlay, and smooth ScrollTrigger animations.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" alt="Three.js" />
+          <img src="https://img.shields.io/badge/GSAP-82C341?style=flat&logo=gsap&logoColor=black" alt="GSAP" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 ---
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONNECT                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 📬 &nbsp;Get In Touch
+<br>
+<hr>
+<br>
+### 🚀 Featured Projects
+<!-- 📈 CONTRIBUTION HISTORY & MILESTONES -->
 <div align="center">
-<a href="mailto:cjc200426@gmail.com">
-  <img src="https://img.shields.io/badge/cjc200426@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://github.com/C-2631">
-  <img src="https://img.shields.io/badge/C--2631-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<br/><br/>
-> 💬 &nbsp;*Open to collaborating on **AI/ML projects**, **RAG applications**, and **fullstack product development**.*
+  <h2>📈 Contribution Milestones</h2>
+  <br>
+  <table width="90%" border="0" cellspacing="0" cellpadding="8">
+    <tr>
+      <td align="left" style="line-height: 1.8; font-size: 1.05em;">
+        📅 &nbsp; <strong>June 2026</strong>: Launched the core of `Enterprise-Rag-Chatbot` and profile customization. <br>
+        📅 &nbsp; <strong>May 2026</strong>: Implemented and configured the `F-DRL-for-Spectrum-sensing` IoT network pipeline. <br>
+        📅 &nbsp; <strong>April 2026</strong>: Developed frontend architectures for `dream-weaver-home` and `Feedback-System`. <br>
+        📅 &nbsp; <strong>March 2026</strong>: Created `Nexus-Core_web_design` to research custom WebGL layouts and animations.
+      </td>
+    </tr>
+  </table>
 </div>
-<br/>
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6c3ce9,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
+Here is a showcase of my active work, spanning AI systems, 3D graphics, and full-stack platforms:
+<br>
+<hr>
+<br>
+#### 1. 🏠 [Dream Weaver Home - Lumen](https://github.com/C-2631/dream-weaver-home)
+*Next-Generation 3D Real Estate & Interior Design Platform*
+- **Tech Stack**: React 18, TypeScript 5.8, Vite, Tailwind CSS, Three.js, React Three Fiber (R3F), Drei, Framer Motion, Recharts, Leaflet, shadcn/ui.
+- **Key Features**: Immersive 3D/360° virtual property walkthroughs, AR furniture placement interface, and an AI interior design assistant providing personalized room layouts and budget optimizations.
+#### 2. 📡 [Federated DRL for Spectrum Sensing](https://github.com/C-2631/F-DRL-for-Spectrum-sensing-in-cognitive-IOT-network)
+*Distributed Spectrum Sensing in Cognitive IoT Networks*
+- **Tech Stack**: Python 3.8, PyTorch (CUDA), NumPy, H5Py, Matplotlib.
+- **Key Features**: Implements LSTM-based spectrum modulation classifiers and Dueling DQN agents for channel selection. Leverages Federated Learning (FedAvg) to enable IoT devices to collectively learn optimal spectrum sensing strategies across edge servers under non-IID Dirichlet data conditions.
+#### 3. 🌸 [Kawaii Feedback System](https://github.com/C-2631/Feedback-System)
+*Beautiful Pastel-Themed Multi-Form Feedback & Analytics Platform*
+- **Tech Stack**: React 18, TypeScript 5.5, Supabase, Tailwind CSS, Framer Motion, Recharts, Lucide React.
+- **Key Features**: 8 specialized interactive feedback form types (Star Rating, Heart experience, Emoji Reaction, Bug Report with screenshot uploads, etc.) powered by Supabase Auth and real-time admin analytics dashboards.
+#### 4. 🎬 [Nexus-Core Web Design](https://github.com/C-2631/Nexus-Core_web_design)
+*Futuristic Cyberpunk Web Interface & WebGL Showcase*
+- **Tech Stack**: HTML5, CSS3, Vanilla JavaScript, Three.js, GSAP 3.12.2, ScrollTrigger, Lenis Smooth Scroll.
+- **Key Features**: Dynamic WebGL background with 5,000 interactive mouse-controlled 3D particles, custom cursor ring system, terminal-style boot loader sequence, and interactive product cards with 3D tilt effects.
+#### 5. ⏱️ FocusForge - Study Planner & Focus Tracker
+*Frosted Glass Academic Productivity SaaS Interface*
+- **Tech Stack**: HTML5, CSS3, Vanilla JavaScript, LocalStorage API.
+- **Key Features**: Integrated Pomodoro timer, subject management with progress rings, study analytics dashboards with heatmaps, light/dark themes, and full LocalStorage data persistence.
+#### 6. 🍰 [Bakery & Desserts](https://github.com/C-2631/Bakery-and-Desserts)
+*Modern E-Commerce Showroom & Booking Platform*
+- **Tech Stack**: React 19, Firebase 11, Material-UI (MUI) 7, Framer Motion, React Router.
+- **Key Features**: Clean, responsive dessert catalogue, smooth page transitions, secure Firebase authentication, and a real-time Firestore database.
+---
+### 📂 Other Repositories & Utilities
+- 📝 **[Notes App](https://github.com/C-2631/Notes-App)**: A lightweight, vanilla HTML/CSS/JS notes organizer utilizing browser `localStorage` auto-saves.
+- 🗣️ **[Text-to-Voice](https://github.com/C-2631/Text-to-Voice)**: Speech synthesis tool with multiple voice/accent selectors using the browser Web Speech API.
+- 🗺️ **[Profile Map App](https://github.com/C-2631/profile-map-app)**: Interactive user profile map visualizer with custom pin layout using vanilla JS.
+- 📄 **[Check PDF in One Page](https://github.com/C-2631/Check-PDF-in-One-Page)**: A Python utility script and Jupyter Notebook workflow designed for document verification.
+- 🚗 **[Car-Wala](https://github.com/C-2631/Car-Wala)**: A clean, responsive rental and sales web UI for cars and bikes.
+- 🎲 **[Quote Generator](https://github.com/C-2631/Quote-Generator)**: Random inspirational quote board with smooth transitions and gradient styling.
+---
+### 📈 Contribution History & Milestones (2026)
+Based on my active GitHub contributions, here is what my roadmap has looked like:
+- **June 2026**: Pushed the core structure for `Enterprise-Rag-Chatbot` and configured profile personalization.
+- **May 2026**: Designed and launched the `F-DRL-for-Spectrum-sensing-in-cognitive-IOT-network` research pipeline.
+- **April 2026**: Concurrently built the frontend structures for `dream-weaver-home`, `Feedback-System`, and `Student-Dashboard-Analytics`.
+- **March 2026**: Created `Nexus-Core_web_design` to explore Three.js and high-end scrolling animations.
+---
+### 📊 GitHub Stats & Metrics
+<!-- 📊 GITHUB STATS & METRICS -->
+<div align="center">
+  <table border="0">
+  <h2>📊 GitHub Stats & Metrics</h2>
+  <br>
+  <table border="0" cellspacing="0" cellpadding="5">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=C-2631&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="400px" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-2631&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="300px" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-2631&theme=tokyonight&hide_border=true&background=0D1117&fire=8b5cf6&ring=8b5cf6&score=d1d5db" width="710px" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+---
+<br>
+<br>
+<div align="center">
+  <p>🎨 Made with ❤️ by <a href="https://github.com/C-2631">Chirag Chauhan</a> · 💼 2026 Profile</p>
+</div>
