@@ -1,3 +1,6 @@
+Here is your updated GitHub Profile README. I have added **Agentic Lab: Multi-Agent Research Assistant** as a prominent project in your AI/ML section and updated your tech stack list to include **React**!
+
+```html
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Chirag%20Chauhan&fontSize=85&fontAlign=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Python%20Developer%20%7C%20LLM%20Researcher&descAlign=50&descAlignY=55&descSize=22&animation=fadeIn" alt="Header" width="100%" />
 
@@ -45,10 +48,10 @@
       </td>
       <td width="50%" valign="top" align="center">
         <h3 style="color: #3B82F6; font-size: 20px;"><b>🧠 AI Pipeline</b></h3>
-        <p style="font-size: 15px; color: #475569; font-weight: 600;">Google Gemini 1.5 & LangChain<br>Vector Embeddings & Semantic Search</p>
+        <p style="font-size: 15px; color: #475569; font-weight: 600;">Google Gemini 2.5 & LangChain<br>Vector Embeddings & Semantic Search</p>
         <br>
-        <h3 style="color: #8B5CF6; font-size: 20px;"><b>⚙️ Backend</b></h3>
-        <p style="font-size: 15px; color: #475569; font-weight: 600;">FastAPI & Python<br>ChromaDB & SQLite</p>
+        <h3 style="color: #8B5CF6; font-size: 20px;"><b>⚙️ Backend & UI</b></h3>
+        <p style="font-size: 15px; color: #475569; font-weight: 600;">FastAPI, SQLite, React<br>TailwindCSS & Framer Motion</p>
       </td>
     </tr>
   </table>
@@ -68,7 +71,7 @@
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,sqlite,git,vscode&perline=6" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,sqlite,react,git,vscode&perline=7" alt="Tech Stack" />
   </p>
 </div>
 
@@ -88,6 +91,37 @@
 <br>
 
 <div align="center">
+  <!-- Project 1: Agentic Lab -->
+  <table border="0" cellpadding="25" cellspacing="0" width="90%" style="background-color: #F8FAFC; border-radius: 20px; border: 1px solid #CBD5E1; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); margin-bottom: 30px;">
+    <tr>
+      <td align="left" valign="top">
+        <h2 align="center" style="margin-bottom: 20px;">
+          <a href="https://github.com/C-2631/multi-agent-research-assistant" style="text-decoration: none; color: #1E293B; font-size: 26px;"><b>🧬 Agentic Lab: Multi-Agent Research Assistant</b></a>
+        </h2>
+        <h4 align="center" style="color: #475569; font-weight: 600; margin-top: 0;"><i>Collaborative Multi-Agent Academic Paper Synthesis & Real-Time Grounding Pipeline</i></h4>
+        <hr style="border-color: #E2E8F0; margin: 25px 0;">
+        <p align="justify" style="font-size: 15px; color: #334155; font-weight: 600; line-height: 1.8;">
+          <b>Overview:</b> An autonomous full-stack research system powered by sequential orchestration of four specialized AI agents (Planner, Researcher, Writer, Editor) to generate structured, cited, academic-grade research papers.
+        </p>
+        <p align="justify" style="font-size: 15px; color: #334155; font-weight: 600; line-height: 1.8;">
+          <b>Technical Highlights:</b>
+          <br>• Real-time web-grounding using Gemini API Search Grounding to extract facts, stats, and live citations.
+          <br>• Self-healing zero-credit fallback mechanism that automatically routes to free model configurations (e.g. <code>openrouter/free</code>) at a 4000-token limit upon credit exhaustion (HTTP 402).
+          <br>• SQLite database-backed history syncing and secure JWT authentication served through a FastAPI backend.
+          <br>• Dynamic UI built with React, Zustand, and Framer Motion featuring a pulsing visual agent dataflow graph and smooth CSS transitions.
+        </p>
+        <p align="center" style="margin-top: 25px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+          <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Project 2: Enterprise RAG Chatbot -->
   <table border="0" cellpadding="25" cellspacing="0" width="90%" style="background-color: #F8FAFC; border-radius: 20px; border: 1px solid #CBD5E1; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); margin-bottom: 20px;">
     <tr>
       <td align="left" valign="top">
@@ -202,3 +236,4 @@
     🤖 <strong>Built with ❤️ by Chirag Chauhan</strong>
   </p>
 </div>
+```
