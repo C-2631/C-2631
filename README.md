@@ -1,6 +1,3 @@
-Here is your updated GitHub Profile README. I have added **Agentic Lab: Multi-Agent Research Assistant** as a prominent project in your AI/ML section and updated your tech stack list to include **React**!
-
-```html
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Chirag%20Chauhan&fontSize=85&fontAlign=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Python%20Developer%20%7C%20LLM%20Researcher&descAlign=50&descAlignY=55&descSize=22&animation=fadeIn" alt="Header" width="100%" />
 
@@ -236,4 +233,3 @@ Here is your updated GitHub Profile README. I have added **Agentic Lab: Multi-Ag
     🤖 <strong>Built with ❤️ by Chirag Chauhan</strong>
   </p>
 </div>
-```
