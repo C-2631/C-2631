@@ -42,14 +42,62 @@ Hi, I'm **Chirag Chauhan** — an AI/ML Engineer and Python Developer. I build i
 
 <div align="center">
 
-| Category | Technologies |
-| :--- | :--- |
-| **🐍 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **🧠 AI & GenAI** | ![Gemini](https://img.shields.io/badge/Gemini_API-8B5CF6?style=flat-square&logo=google-gemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FFA000?style=flat-square&logo=database&logoColor=white) `RAG Systems` `Agentic Workflows` `NLP` `Vector Embeddings` `Multi-Agent Systems` |
-| **📦 Frameworks & Libraries** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) `LangGraph` `PyJWT` `Bcrypt` `pdfplumber` `Pillow` |
-| **🔌 LLM Platforms** | `Google Gemini API` `OpenRouter API` `DuckDuckGo Search API` |
-| **⚙️ Backend & Databases** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71149?style=flat-square&logo=sqlalchemy&logoColor=white) `aiosqlite` `Uvicorn` `REST APIs` `SSE Streaming` |
-| **🔧 Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) `PyPDF2` `python-docx` |
+### 🐍 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+### 🧠 AI & GenAI
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/RAG_Systems-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white" alt="RAG Systems" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-FF6B6B?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Agentic Workflows" />
+  <img src="https://img.shields.io/badge/NLP-06B6D4?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Vector_Embeddings-F59E0B?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector Embeddings" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-E91E63?style=for-the-badge&logo=probot&logoColor=white" alt="Multi-Agent Systems" />
+</p>
+
+### 📦 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/ChromaDB-FFA000?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/PyJWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="PyJWT" />
+  <img src="https://img.shields.io/badge/Bcrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Bcrypt" />
+  <img src="https://img.shields.io/badge/pdfplumber-B7312C?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="pdfplumber" />
+  <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pillow" />
+</p>
+
+### 🔌 LLM Platforms
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini_API-8B5CF6?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini API" />
+  <img src="https://img.shields.io/badge/OpenRouter_API-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="OpenRouter API" />
+  <img src="https://img.shields.io/badge/DuckDuckGo_Search_API-DE5833?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="DuckDuckGo Search API" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71149?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/aiosqlite-4B8BBE?style=for-the-badge&logo=sqlite&logoColor=white" alt="aiosqlite" />
+  <img src="https://img.shields.io/badge/Uvicorn-2ECC71?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Uvicorn" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SSE_Streaming-1DB954?style=for-the-badge&logo=amazonaws&logoColor=white" alt="SSE Streaming" />
+</p>
+
+### 🔧 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PyPDF2-B7312C?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="PyPDF2" />
+  <img src="https://img.shields.io/badge/python--docx-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="python-docx" />
+</p>
 
 </div>
 
@@ -69,10 +117,16 @@ Hi, I'm **Chirag Chauhan** — an AI/ML Engineer and Python Developer. I build i
       <h3 align="center">🧠 Enterprise RAG Chatbot</h3>
       <p align="center">
         <a href="https://github.com/C-2631/Enterprise-Rag-Chatbot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=C-2631&repo=Enterprise-Rag-Chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" alt="Enterprise RAG Chatbot" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=C-2631&repo=Enterprise-Rag-Chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="400" alt="Enterprise RAG Chatbot" />
         </a>
       </p>
-      <p><strong>Python · FastAPI · ChromaDB · LangChain · Google Gemini</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChromaDB-FFA000?style=flat-square&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8B5CF6?style=flat-square&logo=google-gemini&logoColor=white" />
+      </p>
       <ul>
         <li>Full-stack RAG chatbot eliminating AI hallucinations with source citations</li>
         <li>Multi-format document support (PDF, DOCX, TXT, Markdown)</li>
@@ -86,10 +140,17 @@ Hi, I'm **Chirag Chauhan** — an AI/ML Engineer and Python Developer. I build i
       <h3 align="center">🧪 Multi-Agent Research Assistant</h3>
       <p align="center">
         <a href="https://github.com/C-2631/multi-agent-research-assistant">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=C-2631&repo=multi-agent-research-assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" alt="Multi-Agent Research Assistant" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=C-2631&repo=multi-agent-research-assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="400" alt="Multi-Agent Research Assistant" />
         </a>
       </p>
-      <p><strong>Python · FastAPI · SQLite · Google Gemini API · OpenRouter · PyJWT</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_API-8B5CF6?style=flat-square&logo=google-gemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyJWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+      </p>
       <ul>
         <li>4 specialized agents: Planner → Researcher → Writer → Editor</li>
         <li>Real-time Google Search Grounding to eliminate hallucinations</li>
@@ -104,10 +165,16 @@ Hi, I'm **Chirag Chauhan** — an AI/ML Engineer and Python Developer. I build i
       <h3 align="center">📡 Federated Deep Reinforcement Learning for Spectrum Sensing</h3>
       <p align="center">
         <a href="https://github.com/C-2631/F-DRL-for-Spectrum-sensing-in-cognitive-IOT-network">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=C-2631&repo=F-DRL-for-Spectrum-sensing-in-cognitive-IOT-network&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" alt="F-DRL Spectrum Sensing" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=C-2631&repo=F-DRL-for-Spectrum-sensing-in-cognitive-IOT-network&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="400" alt="F-DRL Spectrum Sensing" />
         </a>
       </p>
-      <p align="center"><strong>Python · PyTorch (CUDA) · NumPy · H5Py · Matplotlib</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch_(CUDA)-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/H5Py-1D5CA6?style=flat-square&logo=hdf5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+      </p>
       <p align="center"><em>6-month deep research project</em></p>
       <ul>
         <li><strong>BiLSTM Spectrum Sensor</strong>: Conv1D feature extraction + multi-head attention for modulation classification across 24 modulation types</li>
@@ -126,33 +193,64 @@ Hi, I'm **Chirag Chauhan** — an AI/ML Engineer and Python Developer. I build i
 
 ---
 
-## 🏗️ RAG Pipeline Architecture
+## 🏗️ System Architectures
 
+### Enterprise RAG Pipeline
+
+```mermaid
+flowchart TD
+    A["📄 Documents<br/>PDF / DOCX / TXT / MD"] -->|Upload & Parse| B["🔪 LangChain<br/>RecursiveCharacterTextSplitter"]
+    B -->|Text Chunks| C["🧬 Google Gemini<br/>embedding-001"]
+    C -->|Store Vectors| D[("🗄️ ChromaDB<br/>Vector Store")]
+
+    E["💬 User Query"] -->|Embed Query| C
+    D -->|Similarity Search| F["🔍 Semantic<br/>Vector Matching"]
+    E --> F
+
+    F -->|Top-K Context + Query| G["🧠 Google Gemini<br/>1.5 Flash"]
+    G -->|SSE Token Stream| H["📨 Streaming Response<br/>+ Source Citations"]
+
+    style A fill:#6c3ce9,stroke:#8b5cf6,color:#fff
+    style B fill:#0d9488,stroke:#14b8a6,color:#fff
+    style C fill:#f59e0b,stroke:#fbbf24,color:#000
+    style D fill:#06b6d4,stroke:#22d3ee,color:#000
+    style E fill:#8b5cf6,stroke:#a78bfa,color:#fff
+    style F fill:#ec4899,stroke:#f472b6,color:#fff
+    style G fill:#6366f1,stroke:#818cf8,color:#fff
+    style H fill:#10b981,stroke:#34d399,color:#000
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                    ENTERPRISE RAG PIPELINE                  ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   📄 Documents (PDF/DOCX/TXT/MD)                            ║
-║       │                                                      ║
-║       ▼                                                      ║
-║   🔪 LangChain RecursiveCharacterTextSplitter               ║
-║       │                                                      ║
-║       ▼                                                      ║
-║   🧬 Google Gemini embedding-001  ──▶  ChromaDB (Vectors)   ║
-║                                           │                  ║
-║   💬 User Query                           │                  ║
-║       │                                   │                  ║
-║       ▼                                   ▼                  ║
-║   🔍 Semantic Similarity Search  ◀── Vector Matching        ║
-║       │                                                      ║
-║       ▼                                                      ║
-║   🧠 Google Gemini 1.5 Flash (Context + Query)              ║
-║       │                                                      ║
-║       ▼                                                      ║
-║   📨 Streaming Response (SSE) + Source Citations             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+
+### Multi-Agent Orchestration Pipeline
+
+```mermaid
+flowchart LR
+    U["🧑 User Query"] --> P["🧠 Planner Agent"]
+    P -->|Research Plan| R["🔍 Researcher Agent"]
+    R -->|Web Search<br/>Grounding| G["🌐 Google Search"]
+    G -->|Facts & Sources| R
+    R -->|Evidence Report| W["✍️ Writer Agent"]
+    W -->|Draft Paper| E["📋 Editor Agent"]
+    E -->|Final Paper| DB[("🗄️ SQLite<br/>History")]
+
+    subgraph LLM["🤖 LLM Inference"]
+        GM["Google Gemini API"]
+        OR["OpenRouter API<br/>Free Fallback"]
+    end
+
+    P -.->|Inference| LLM
+    R -.->|Inference| LLM
+    W -.->|Inference| LLM
+    E -.->|Inference| LLM
+
+    style U fill:#8b5cf6,stroke:#a78bfa,color:#fff
+    style P fill:#6366f1,stroke:#818cf8,color:#fff
+    style R fill:#06b6d4,stroke:#22d3ee,color:#000
+    style G fill:#f59e0b,stroke:#fbbf24,color:#000
+    style W fill:#ec4899,stroke:#f472b6,color:#fff
+    style E fill:#10b981,stroke:#34d399,color:#000
+    style DB fill:#0d9488,stroke:#14b8a6,color:#fff
+    style GM fill:#8b5cf6,stroke:#a78bfa,color:#fff
+    style OR fill:#6c3ce9,stroke:#8b5cf6,color:#fff
 ```
 
 <br>
@@ -165,16 +263,16 @@ Hi, I'm **Chirag Chauhan** — an AI/ML Engineer and Python Developer. I build i
   <table border="0" cellspacing="0" cellpadding="5">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=C-2631&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="400px" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=C-2631&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="400" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-2631&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="300px" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-2631&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="300" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-2631&theme=tokyonight&hide_border=true&background=0D1117&fire=8b5cf6&ring=8b5cf6&score=d1d5db" width="710px" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-2631&theme=tokyonight&hide_border=true&background=0D1117&fire=8b5cf6&ring=8b5cf6&score=d1d5db" width="700" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -187,7 +285,7 @@ Hi, I'm **Chirag Chauhan** — an AI/ML Engineer and Python Developer. I build i
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=C-2631&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=C-2631&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" width="800" alt="GitHub Trophies" />
 </div>
 
 <br>
@@ -197,7 +295,7 @@ Hi, I'm **Chirag Chauhan** — an AI/ML Engineer and Python Developer. I build i
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/C-2631/C-2631/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/C-2631/C-2631/output/github-snake-dark.svg" width="800" alt="Snake animation" />
 </div>
 
 <br>
