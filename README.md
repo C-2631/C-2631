@@ -272,47 +272,12 @@ flowchart LR
     <tr>
       <td colspan="2" align="center">
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-2631&theme=tokyonight&hide_border=true&background=0D1117&fire=8b5cf6&ring=8b5cf6&score=d1d5db" width="700" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=C-2631&theme=tokyonight&hide_border=true&background=0D1117&fire=8b5cf6&ring=8b5cf6&currStreakLabel=d1d5db&sideLabels=d1d5db&dates=d1d5db" width="700" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
-<br>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=C-2631&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" width="800" alt="GitHub Trophies" />
-</div>
-
-<br>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/C-2631/C-2631/output/github-snake-dark.svg" width="800" alt="Snake animation" />
-</div>
-
-<br>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="mailto:cjc200426@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cjc200426%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/C-2631">
-    <img src="https://img.shields.io/badge/GitHub-C--2631-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
 
 <br>
 <br>
