@@ -260,22 +260,15 @@ flowchart LR
 ## 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="5">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=C-2631&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="400" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-2631&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="300" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br>
-        <img src="https://streak-stats.demolab.com/?user=C-2631&theme=tokyonight&hide_border=true&background=0D1117&fire=8b5cf6&ring=8b5cf6&currStreakLabel=d1d5db&sideLabels=d1d5db&dates=d1d5db" width="700" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=C-2631&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db&cache_seconds=86400" height="180" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-2631&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db&cache_seconds=86400" height="180" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=C-2631&theme=tokyonight&hide_border=true&background=0D1117&fire=8b5cf6&ring=8b5cf6&currStreakLabel=d1d5db&sideLabels=d1d5db&dates=d1d5db" height="180" alt="GitHub Streak" />
 </div>
 
 
