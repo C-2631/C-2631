@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Chirag%20Chauhan&fontSize=85&fontAlign=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Python%20Developer%20%7C%20LLM%20Researcher&descAlign=50&descAlignY=55&descSize=22&animation=fadeIn" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Chirag%20Chauhan&fontSize=85&fontAlign=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20P[...]
 
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=1E293B&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%26+Researcher;LLM+%26+RAG+Systems+Developer;Federated+Learning+%26+DRL+Specialist;Building+intelligent+systems+with+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=1E293B&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%26+Researcher;LLM+%26+RAG+Sys[...]
 
   <br><br>
 
-  <a href="mailto:cjc200426@gmail.com">
+  <a href="mailto:cjc200426@gmail.com?subject=Hello%20Chirag&body=Hi%20Chirag%2C%0A%0AI%20wanted%20to%20connect%20about%20your%20work%20on%20AI%2FML%20projects.%20Could%20we%20schedule%20a%20short%20chat%3F%0A%0AThanks%2C%0A%5BYour%20Name%5D">
     <img src="https://img.shields.io/badge/Email-Connect--Now-blue?style=for-the-badge&logo=gmail&logoColor=white&color=3B82F6" alt="Email Badge" />
   </a>
   <a href="https://github.com/C-2631">
@@ -27,7 +27,7 @@
 <div align="center">
   <h1 style="color: #0F172A; font-family: 'Space Grotesk', sans-serif; font-size: 32px;"><b>🌌 A b o u t &nbsp; M e 🌌</b></h1>
   <p align="center" style="font-size: 16px; color: #334155; font-weight: 500; line-height: 1.8; max-width: 800px;">
-    I am an <strong>AI/ML Engineer</strong> and <strong>Python Developer</strong> building intelligent systems powered by <strong>Large Language Models</strong>, <strong>RAG Pipelines</strong>, and <strong>Deep Reinforcement Learning</strong>. I specialize in designing production-grade AI systems that are accurate, scalable, and grounded in real-world data.
+    I am an <strong>AI/ML Engineer</strong> and <strong>Python Developer</strong> building intelligent systems powered by <strong>Large Language Models</strong>, <strong>RAG Pipelines</strong>, an[...]
   </p>
 </div>
 
@@ -89,21 +89,21 @@
 
 <div align="center">
   <!-- Project 1: Agentic Lab -->
-  <table border="0" cellpadding="25" cellspacing="0" width="90%" style="background-color: #F8FAFC; border-radius: 20px; border: 1px solid #CBD5E1; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); margin-bottom: 30px;">
+  <table border="0" cellpadding="25" cellspacing="0" width="90%" style="background-color: #F8FAFC; border-radius: 20px; border: 1px solid #CBD5E1; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); margi[...]
     <tr>
       <td align="left" valign="top">
         <h2 align="center" style="margin-bottom: 20px;">
-          <a href="https://github.com/C-2631/multi-agent-research-assistant" style="text-decoration: none; color: #1E293B; font-size: 26px;"><b>🧬 Agentic Lab: Multi-Agent Research Assistant</b></a>
+          <a href="https://github.com/C-2631/multi-agent-research-assistant" style="text-decoration: none; color: #1E293B; font-size: 26px;"><b>🧬 Agentic Lab: Multi-Agent Research Assistant</b>[...]
         </h2>
         <h4 align="center" style="color: #475569; font-weight: 600; margin-top: 0;"><i>Collaborative Multi-Agent Academic Paper Synthesis & Real-Time Grounding Pipeline</i></h4>
         <hr style="border-color: #E2E8F0; margin: 25px 0;">
         <p align="justify" style="font-size: 15px; color: #334155; font-weight: 600; line-height: 1.8;">
-          <b>Overview:</b> An autonomous full-stack research system powered by sequential orchestration of four specialized AI agents (Planner, Researcher, Writer, Editor) to generate structured, cited, academic-grade research papers.
+          <b>Overview:</b> An autonomous full-stack research system powered by sequential orchestration of four specialized AI agents (Planner, Researcher, Writer, Editor) to generate structured,[...]
         </p>
         <p align="justify" style="font-size: 15px; color: #334155; font-weight: 600; line-height: 1.8;">
           <b>Technical Highlights:</b>
           <br>• Real-time web-grounding using Gemini API Search Grounding to extract facts, stats, and live citations.
-          <br>• Self-healing zero-credit fallback mechanism that automatically routes to free model configurations (e.g. <code>openrouter/free</code>) at a 4000-token limit upon credit exhaustion (HTTP 402).
+          <br>• Self-healing zero-credit fallback mechanism that automatically routes to free model configurations (e.g. <code>openrouter/free</code>) at a 4000-token limit upon credit exhausti[...]
           <br>• SQLite database-backed history syncing and secure JWT authentication served through a FastAPI backend.
           <br>• Dynamic UI built with React, Zustand, and Framer Motion featuring a pulsing visual agent dataflow graph and smooth CSS transitions.
         </p>
@@ -119,7 +119,7 @@
   </table>
 
   <!-- Project 2: Enterprise RAG Chatbot -->
-  <table border="0" cellpadding="25" cellspacing="0" width="90%" style="background-color: #F8FAFC; border-radius: 20px; border: 1px solid #CBD5E1; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); margin-bottom: 20px;">
+  <table border="0" cellpadding="25" cellspacing="0" width="90%" style="background-color: #F8FAFC; border-radius: 20px; border: 1px solid #CBD5E1; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); marg[...]
     <tr>
       <td align="left" valign="top">
         <h2 align="center" style="margin-bottom: 20px;">
@@ -128,11 +128,11 @@
         <h4 align="center" style="color: #475569; font-weight: 600; margin-top: 0;"><i>Production-grade Retrieval-Augmented Generation with Zero Hallucination</i></h4>
         <hr style="border-color: #E2E8F0; margin: 25px 0;">
         <p align="justify" style="font-size: 15px; color: #334155; font-weight: 600; line-height: 1.8;">
-          <b>Overview:</b> An enterprise-scale AI chatbot that strictly grounds every response in uploaded documents, eliminating hallucinations entirely. Supports PDF, DOCX, TXT, and Markdown with automatic source citations on every answer.
+          <b>Overview:</b> An enterprise-scale AI chatbot that strictly grounds every response in uploaded documents, eliminating hallucinations entirely. Supports PDF, DOCX, TXT, and Markdown wi[...]
         </p>
         <p align="justify" style="font-size: 15px; color: #334155; font-weight: 600; line-height: 1.8;">
           <b>Technical Highlights:</b>
-          <br>• End-to-end RAG pipeline using LangChain and ChromaDB with 768-dimensional vector embeddings via Google Gemini <code>embedding-001</code> for cosine similarity-based semantic retrieval.
+          <br>• End-to-end RAG pipeline using LangChain and ChromaDB with 768-dimensional vector embeddings via Google Gemini <code>embedding-001</code> for cosine similarity-based semantic ret[...]
           <br>• Google Gemini 1.5 Flash integration for context-aware, citation-grounded response generation with zero hallucination guarantee.
           <br>• Document ingestion via LangChain <code>RecursiveCharacterTextSplitter</code> with overlapping context windows, served through a FastAPI backend.
         </p>
@@ -167,12 +167,12 @@
     <tr>
       <td align="left" valign="top">
         <h2 align="center" style="margin-bottom: 20px;">
-          <a href="https://github.com/C-2631/F-DRL-for-Spectrum-sensing-in-cognitive-IOT-network" style="text-decoration: none; color: #1E293B; font-size: 26px;"><b>Federated DRL Sensing System</b></a>
+          <a href="https://github.com/C-2631/F-DRL-for-Spectrum-sensing-in-cognitive-IOT-network" style="text-decoration: none; color: #1E293B; font-size: 26px;"><b>Federated DRL Sensing System</b>[...]
         </h2>
         <h4 align="center" style="color: #475569; font-weight: 600; margin-top: 0;"><i>Spectrum Sensing in Cognitive IoT Networks using Federated Learning & DQN</i></h4>
         <hr style="border-color: #E2E8F0; margin: 25px 0;">
         <p align="justify" style="font-size: 15px; color: #334155; font-weight: 600; line-height: 1.8;">
-          <b>Overview & Architecture:</b> An advanced DRL platform allowing IoT clients to dynamically sense and share spectrum signals without exposing underlying sensor data. Built with PyTorch using <b>Multi-Agent Dueling DQN</b> combined with <b>BiLSTM Networks & Conv1D feature extractors</b> for accurate modulation classification across 24 signal types on the RadioML 2018.01A dataset.
+          <b>Overview & Architecture:</b> An advanced DRL platform allowing IoT clients to dynamically sense and share spectrum signals without exposing underlying sensor data. Built with PyTorch usin[...]
         </p>
         <p align="justify" style="font-size: 15px; color: #334155; font-weight: 600; line-height: 1.8;">
           <b>System Infrastructure Highlights:</b>
@@ -209,15 +209,15 @@
   <table border="0" cellspacing="25" cellpadding="0" style="border-collapse: separate; width: 90%;">
     <tr>
       <td align="center" style="background-color: #FFFFFF; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 4px 15px rgba(59, 130, 246, 0.08); padding: 15px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=C-2631&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=1E293B&icon_color=3B82F6&text_color=475569&text_bold=true" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=C-2631&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=1E293B&icon_color=3B82F6&text_color=4[...]
       </td>
       <td align="center" style="background-color: #FFFFFF; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 4px 15px rgba(139, 92, 246, 0.08); padding: 15px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-2631&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=1E293B&icon_color=8B5CF6&text_color=475569" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-2631&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=1E293B&icon_color=8B5CF6&te[...]
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="background-color: #FFFFFF; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.08); padding: 25px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-2631&theme=transparent&hide_border=true&background=00000000&fire=3B82F6&ring=8B5CF6&score=475569&currStreakNum=1E293B&sideNums=475569&sideLabels=64748B&dates=64748B" width="100%" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-2631&theme=transparent&hide_border=true&background=00000000&fire=3B82F6&ring=8B5CF6&score=475569&currStreakNum=1E293B&si[...]
       </td>
     </tr>
   </table>
