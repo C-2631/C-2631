@@ -5,11 +5,11 @@
 <div align="center">
 
 <!-- 🌊 Animated Waving Header Banner 🌊 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c3ce9,100:06b6d4&height=230&section=header&text=AI%20/%20ML%20Engineer&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Python%20Developer%20%7C%20Computer%20Vision%20%7C%20RAG%20Systems%20%7C%20Multi-Agent%20Pipelines%20%7C%20Deep%20RL&descSize=17&descAlignY=52&descColor=d1d5db" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c3ce9,100:06b6d4&height=230&section=header&text=AI%20/%20ML%20Engineer&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Python%20Developer%20%7C%20Multimodal%20RAG%20%7C%20Computer%20Vision%20%7C%20Healthcare%20AI%20%7C%20Deep%20RL&descSize=16&descAlignY=52&descColor=d1d5db" width="100%" />
 
 <!-- ⌨️ Typing Animation ⌨️ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%A1+Building+Intelligent+Vision+%26+RAG+Systems+with+FastAPI;%F0%9F%8C%BF+PlantGuard+AI+%7C+OpenCV+%7C+Grad-CAM+%7C+PyTorch;%F0%9F%A7%AA+Federated+Deep+RL+%7C+Multi-Agent+Orchestration;%F0%9F%94%AE+Google+Gemini+%7C+LangChain+%7C+ChromaDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+Multimodal+RAG+%26+Vision-Language+Intelligence+with+FastAPI;%F0%9F%A9%BA+CareLens+AI+%7C+Clinical+Diagnostics+%26+Medical+Vision;%F0%9F%8C%BF+PlantGuard+AI+%7C+OpenCV+%7C+Grad-CAM+Explainable+AI;%F0%9F%A7%AA+Federated+Deep+RL+%7C+Multi-Agent+Orchestration+Pipelines" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,14 +25,15 @@
 
 ## 👋 About Me
 
-Hi, I'm **Chirag Chauhan** — an AI/ML Engineer and Python Developer. I engineer production-ready intelligent systems combining **Computer Vision**, **Large Language Models (LLMs)**, **RAG pipelines**, **multi-agent orchestration**, and **deep reinforcement learning**. My portfolio spans from real-time agricultural phytopathology vision platforms and federated DRL spectrum sensing to enterprise document chatbots.
+Hi, I'm **Chirag Chauhan** — an AI/ML Engineer and Python Developer. I engineer production-grade intelligent systems bridging **Multimodal RAG pipelines**, **Computer Vision (Healthcare & Agronomy)**, **Large Vision-Language Models (VLMs)**, **Multi-Agent Orchestration**, and **Deep Reinforcement Learning**. My work focuses on building high-throughput, explainable, and resilient AI backends that solve complex real-world challenges.
 
-* 🌿 **Flagship Vision Project**: **PlantGuard AI** — Deep Learning Agricultural Diagnostics across 63 Crop Pathologies with Grad-CAM & OpenCV
-* 🧠 **Production GenAI**: Enterprise **RAG Chatbot** with FastAPI + ChromaDB + Google Gemini
+* 🔮 **Multimodal AI**: Building **Multimodal RAG Systems** combining text, charts, tabular data, and visual embeddings
+* 🩺 **Healthcare AI**: Engineering **CareLens** — an intelligent clinical assistance and medical vision platform
+* 🌿 **Agronomic Vision**: Developing **PlantGuard AI** — deep learning diagnostics for 63 crop pathologies with Grad-CAM & OpenCV
+* 🧠 **Enterprise GenAI**: Production **RAG Chatbots** with FastAPI + ChromaDB + Google Gemini + SSE Streaming
 * 🧪 **Research**: **Federated Deep Reinforcement Learning** for dynamic spectrum sensing in cognitive IoT networks
-* 🤖 **Agentic AI**: Multi-Agent orchestration pipelines with **LangChain**, **LangGraph**, and Google Grounding
-* ⚡ **Full-Stack AI**: Async **FastAPI** backends + modern **React 19 / TypeScript / Tailwind CSS 4** frontends
-* 🎓 **On GitHub since**: **August 2023** — **16+ public repositories** and growing
+* 🤖 **Agentic Systems**: Autonomous multi-agent pipelines with **LangChain**, **LangGraph**, and Google Search Grounding
+* 🎓 **On GitHub since**: **August 2023** — **18+ public repositories** and actively contributing
 
 <br>
 
@@ -50,24 +51,25 @@ Hi, I'm **Chirag Chauhan** — an AI/ML Engineer and Python Developer. I enginee
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### 👁️ Computer Vision & Deep Learning
+### 🔮 Multimodal AI, Vision & Deep Learning
 <p>
+  <img src="https://img.shields.io/badge/Multimodal_RAG-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Multimodal RAG" />
+  <img src="https://img.shields.io/badge/Vision--Language_Models-06B6D4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="VLMs" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Grad--CAM_XAI-10B981?style=for-the-badge&logo=target&logoColor=white" alt="Grad-CAM" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pillow" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
 </p>
 
 ### 🧠 LLMs, GenAI & Agentic Workflows
 <p>
-  <img src="https://img.shields.io/badge/Google_Gemini_API-8B5CF6?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini API" />
+  <img src="https://img.shields.io/badge/Google_Gemini_Vision-8B5CF6?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini Vision" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/RAG_Systems-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white" alt="RAG Systems" />
   <img src="https://img.shields.io/badge/Multi--Agent_Systems-E91E63?style=for-the-badge&logo=probot&logoColor=white" alt="Multi-Agent Systems" />
   <img src="https://img.shields.io/badge/ChromaDB-FFA000?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="OpenRouter" />
 </p>
 
 ### ⚙️ Backend, Frontend & Tooling
@@ -93,6 +95,52 @@ Hi, I'm **Chirag Chauhan** — an AI/ML Engineer and Python Developer. I enginee
 
 <!-- Project Cards Grid -->
 <table border="0" cellpadding="12" cellspacing="0">
+  <tr>
+    <!-- Multimodal RAG Project -->
+    <td width="50%" valign="top">
+      <h3 align="center">🔮 Multimodal RAG Intelligence Platform</h3>
+      <p align="center">
+        <a href="https://github.com/C-2631/Multimodal-RAG">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=C-2631&repo=Multimodal-RAG&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db" width="400" alt="Multimodal RAG" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_Vision-8B5CF6?style=flat-square&logo=google-gemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChromaDB-FFA000?style=flat-square&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
+      </p>
+      <ul>
+        <li><strong>Cross-Modal Retrieval</strong>: Ingests and semantically embeds text, charts, diagrams, tables, and images</li>
+        <li><strong>Dual-Vector Indexing</strong>: Joint visual & textual embedding search powered by Google Gemini Vision & ChromaDB</li>
+        <li><strong>Document Reasoning</strong>: Accurate question-answering over complex PDFs, research papers, and technical slides</li>
+        <li><strong>SSE Streaming</strong>: Low-latency streaming response generation with visual grounding & source page citations</li>
+      </ul>
+    </td>
+    <!-- CareLens Project -->
+    <td width="50%" valign="top">
+      <h3 align="center">🩺 CareLens — AI Clinical & Medical Vision</h3>
+      <p align="center">
+        <a href="https://github.com/C-2631/CareLens">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=C-2631&repo=CareLens&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=10b981&text_color=d1d5db" width="400" alt="CareLens" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <ul>
+        <li><strong>Medical Diagnostics Assistant</strong>: Clinical symptom analyzer, vital metrics tracking, and medical image inspection</li>
+        <li><strong>Explainable Medical Vision</strong>: Highlights clinical regions of interest on scans with attention saliency</li>
+        <li><strong>Prescription & Risk Stratification</strong>: Triage categorization, drug interaction flags, and instant care advice</li>
+        <li><strong>Secure Patient History</strong>: End-to-end encrypted session persistence with clinical summary PDF generation</li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <!-- PlantGuard AI Project -->
     <td width="50%" valign="top">
@@ -196,6 +244,52 @@ Hi, I'm **Chirag Chauhan** — an AI/ML Engineer and Python Developer. I enginee
 
 ## 🏗️ System Architectures
 
+### 🔮 Multimodal RAG Pipeline
+
+```mermaid
+flowchart TD
+    A["📑 Multimodal Documents<br/>(Text, Charts, Images, Tables)"] --> B["🧩 Layout & Image Extractor<br/>(Visual Chunker & Parser)"]
+    B -->|Text Chunks| C1["🧬 Text Embeddings"]
+    B -->|Image / Chart Crops| C2["🖼️ Visual Embeddings<br/>(Gemini Vision)"]
+    C1 --> D[("🗄️ ChromaDB<br/>Multi-Vector Store")]
+    C2 --> D
+
+    E["💬 User Multimodal Query"] -->|Embed Query| D
+    D -->|Cross-Modal Similarity Matching| F["🔍 Top-K Visual & Text Context"]
+    F --> G["🧠 Multimodal LLM<br/>(Gemini 1.5 Flash / Pro)"]
+    E --> G
+    G -->|SSE Token Stream| H["📨 Grounded Response<br/>+ Image/Page Citations"]
+
+    style A fill:#6c3ce9,stroke:#8b5cf6,color:#fff
+    style B fill:#0d9488,stroke:#14b8a6,color:#fff
+    style C1 fill:#f59e0b,stroke:#fbbf24,color:#000
+    style C2 fill:#ec4899,stroke:#f472b6,color:#fff
+    style D fill:#06b6d4,stroke:#22d3ee,color:#000
+    style E fill:#8b5cf6,stroke:#a78bfa,color:#fff
+    style F fill:#6366f1,stroke:#818cf8,color:#fff
+    style G fill:#3b82f6,stroke:#60a5fa,color:#fff
+    style H fill:#10b981,stroke:#34d399,color:#000
+```
+
+### 🩺 CareLens Clinical Diagnostics & Medical Vision Pipeline
+
+```mermaid
+flowchart LR
+    A["🩺 Patient Symptoms & Scan<br/>(X-Ray / Derm / Vitals)"] --> B["⚙️ Clinical Signal Processing<br/>(Normalization · Contrast · Feature Maps)"]
+    B --> C["🧠 Medical Diagnostic Model<br/>(PyTorch Vision + Clinical Embeddings)"]
+    C --> D["🎯 Attention Saliency<br/>(Explainable Clinical ROI Heatmap)"]
+    C --> E["📋 Medical Knowledge Graph<br/>(Triage · Drug Interactions · Protocols)"]
+    D --> F["📱 CareLens Clinical Dashboard<br/>(Triage Alerts · Vitals · PDF Summary)"]
+    E --> F
+
+    style A fill:#06b6d4,stroke:#22d3ee,color:#000
+    style B fill:#0d9488,stroke:#14b8a6,color:#fff
+    style C fill:#6c3ce9,stroke:#8b5cf6,color:#fff
+    style D fill:#f59e0b,stroke:#fbbf24,color:#000
+    style E fill:#8b5cf6,stroke:#a78bfa,color:#fff
+    style F fill:#10b981,stroke:#34d399,color:#000
+```
+
 ### 🌿 PlantGuard AI Computer Vision Diagnostic Pipeline
 
 ```mermaid
@@ -213,3 +307,65 @@ flowchart LR
     style D fill:#f59e0b,stroke:#fbbf24,color:#000
     style E fill:#0d9488,stroke:#14b8a6,color:#fff
     style F fill:#8b5cf6,stroke:#a78bfa,color:#fff
+```
+
+### 🧠 Multi-Agent Orchestration Pipeline
+
+```mermaid
+flowchart LR
+    U["🧑 User Query"] --> P["🧠 Planner Agent"]
+    P -->|Research Plan| R["🔍 Researcher Agent"]
+    R -->|Web Search<br/>Grounding| G["🌐 Google Search"]
+    G -->|Facts & Sources| R
+    R -->|Evidence Report| W["✍️ Writer Agent"]
+    W -->|Draft Paper| E["📋 Editor Agent"]
+    E -->|Final Paper| DB[("🗄️ SQLite<br/>History")]
+
+    subgraph LLM["🤖 LLM Inference"]
+        GM["Google Gemini API"]
+        OR["OpenRouter API<br/>Free Fallback"]
+    end
+
+    P -.->|Inference| LLM
+    R -.->|Inference| LLM
+    W -.->|Inference| LLM
+    E -.->|Inference| LLM
+
+    style U fill:#8b5cf6,stroke:#a78bfa,color:#fff
+    style P fill:#6366f1,stroke:#818cf8,color:#fff
+    style R fill:#06b6d4,stroke:#22d3ee,color:#000
+    style G fill:#f59e0b,stroke:#fbbf24,color:#000
+    style W fill:#ec4899,stroke:#f472b6,color:#fff
+    style E fill:#10b981,stroke:#34d399,color:#000
+    style DB fill:#0d9488,stroke:#14b8a6,color:#fff
+    style GM fill:#8b5cf6,stroke:#a78bfa,color:#fff
+    style OR fill:#6c3ce9,stroke:#8b5cf6,color:#fff
+```
+
+<br>
+
+---
+
+## 📊 GitHub Stats & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=C-2631&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db&cache_seconds=86400" height="180" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-2631&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4&text_color=d1d5db&cache_seconds=86400" height="180" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=C-2631&theme=tokyonight&hide_border=true&background=0D1117&fire=8b5cf6&ring=8b5cf6&currStreakLabel=d1d5db&sideLabels=d1d5db&dates=d1d5db" height="180" alt="GitHub Streak" />
+</div>
+
+<br>
+<br>
+
+<!-- 🌊 Footer Wave 🌊 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6c3ce9,100:0d1117&height=120&section=footer" width="100%" />
+
+<div align="center">
+  <p>🔮 Made with ❤️ by <a href="https://github.com/C-2631">Chirag Chauhan</a> · 💼 2026 Profile</p>
+</div>
